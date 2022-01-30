@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xBalzaac
-- 👀 I’m interested in 
+- 👀 I’m interested in html,python,C++
 - 🌱 I’m currently learning PHP C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Balzaac#0157
